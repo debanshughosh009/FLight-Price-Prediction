@@ -2,7 +2,7 @@ README.txt
 ===========
 
 Project Title: Flight Price Prediction  
-Author: Debanshu Ghosh
+Author: Debanshu Ghosh                                              
 Kaggle Notebook: https://www.kaggle.com/code/debanshu03/flight-price-prediction
 
 Overview:
