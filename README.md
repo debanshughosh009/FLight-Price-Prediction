@@ -13,7 +13,7 @@ and duration to estimate ticket costs accurately.
 
 Methods Used:
 -------------
-- Data preprocessing: handling missing values, feature engineering (date-time and duration),
+- Data preprocessing: feature engineering (date-time and duration),
   and encoding categorical variables.
 - Exploratory Data Analysis (EDA): visualizing trends and feature correlations.
 - Models applied:
@@ -31,6 +31,14 @@ Results:
 - Best model: Random Forest Regressor 
 - Metrics used: R² Score and Mean Absolute Error (MAE)
 - Outcome: Model effectively predicts flight prices with good accuracy.
+
+
+Predicted Price vs Actual Price Plot                 
+--------------------
+- 98.626% Accuracy Observed by r2_score using Random Forest Regressor
+
+  ![image](https://github.com/user-attachments/assets/2a46846c-7e28-4e86-9df2-af6fa37c73cd)
+
 
 Tools & Libraries:
 ------------------
