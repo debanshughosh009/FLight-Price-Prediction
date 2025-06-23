@@ -1,9 +1,8 @@
-                                    
 Kaggle Notebook: https://www.kaggle.com/code/debanshu03/flight-price-prediction
 
 Overview:
 ---------
-This project predicts flight ticket prices using supervised machine learning. It analyzes features such as airline, source/destination cities, departure/arrival times, 
+The model predicts flight ticket prices using supervised machine learning. It analyzes features such as airline, source/destination cities, departure/arrival times, 
 and duration to estimate ticket costs accurately.
 
 Methods Used:
